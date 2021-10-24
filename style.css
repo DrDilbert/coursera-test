@@ -1,8 +1,7 @@
-body {
-    background-color: gray;
-    font-size: large;
-}
-
-p {
-    background-color: hotpink;
+.high {
+    background-color: indianred;
+    border: black;
+    border-style: groove;
+    border-width: 2px;
+    margin-bottom: 1px;
 }

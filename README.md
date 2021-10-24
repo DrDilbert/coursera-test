@@ -4,3 +4,6 @@ Source code: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FA
 
 Check browser capabilities: https://caniuse.com/
 
+Start browser-sync in project directory to avoid the need to refresh browser:
+
+browser-sync start --server --directory --files "*"
